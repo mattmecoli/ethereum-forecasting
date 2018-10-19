@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#custom 
+ignore/
+neural_net_modeling.ipynb
+.DS_Store
+.ipynb_checkpoints/
