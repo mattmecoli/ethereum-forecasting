@@ -240,7 +240,7 @@ While I ended up not using gold data or other financial indicators, Quandl deser
 
 PyTrends is an excellent, easy to use, Python package that turns Google Trends into a much more readily accessible API. Installation / docs for PyTrends here: https://github.com/GeneralMills/pytrends
 
-#### FBProhpet
+#### FBProphet
 
 FBProphet is a powerful, simple, accurate forecasting tools that utilizes additive modeling and is freely available from: https://pypi.org/project/fbprophet/ 
 
